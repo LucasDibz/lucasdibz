@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdibz&layout=compact&how_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Contact :iphone:
-
 <p align="center">
     <a href="https://github.com/lucasdibz">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white">
