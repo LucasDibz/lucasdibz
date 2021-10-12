@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=lucasdibz&show_icons=true&locale=en&=true&theme=dark" alt="lucasdibz" /></p>
+<p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=lucasdibz&show_icons=true&locale=en&=true&theme=nord" alt="lucasdibz" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdibz&layout=compact&how_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdibz&count_private=true&layout=compact&how_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
     <a href="https://github.com/lucasdibz">
